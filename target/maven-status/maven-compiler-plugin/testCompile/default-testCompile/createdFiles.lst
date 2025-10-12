@@ -1,0 +1,4 @@
+com/postgresql/DatabaseConcurrencyTest.class
+com/postgresql/DatabaseSelectAdvancedTest.class
+com/postgresql/DatabaseBasicTest.class
+com/postgresql/DatabaseJoinTest.class
